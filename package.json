@@ -1,0 +1,22 @@
+{
+  "name": "file-manager-task",
+  "version": "1.0.0",
+  "description": "This repository is the part of nodejs-assignments https://github.com/AlreadyBored/nodejs-assignments",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ekachka/File-Manager-task.git"
+  },
+  "keywords": ["nodejs", "assignments", "file-manager-task"],
+  "author": "Ekachka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ekachka/File-Manager-task/issues"
+  },
+  "homepage": "https://github.com/Ekachka/File-Manager-task#readme"
+}
